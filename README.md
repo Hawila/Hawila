@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DevOps Software Developer/Engineer</h1>
+<h1 align="center">Hi 👋, I'm DevOps Engineer</h1>
 <h3 align="center">a Software developer digging into the cloud and passionate about Devops</h3>
 
 - 🔭 I’m currently working on [Sprints Ai Final Project](https://github.com/Hawila/MySQL-and-Python)
